@@ -1,0 +1,17 @@
+{
+  "name": "@dankolz/json-reformat",
+  "version": "1.0.3",
+  "description": "Takes a block of json text and reformats using tabs",
+  "main": "json-reformat.js",
+  "bin": {
+    "json-reformat": "./json-reformat-command.js"
+  },
+  "scripts": {
+  },
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "dependencies": {
+    "console-in-transformer": "^1.0.0",
+    "lodash": "^4.13.1"
+  }
+}
